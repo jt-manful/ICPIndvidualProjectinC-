@@ -1,0 +1,7 @@
+   1 KL from ACC to AMS 0 stops.
+   2 DL from AMS to YYC 0 stops.
+   3 AC from YYC to YWG 0 stops.
+Total flights: 3
+Total additional stops: 0
+Total distance: 13571 Km
+Optimality criteria : Total Distance

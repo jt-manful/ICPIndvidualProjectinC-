@@ -1,0 +1,4 @@
+Total flights: 0
+Total additional stops: 0
+Total distance: 0.000000 Km
+Optimality criteria : Total Distance

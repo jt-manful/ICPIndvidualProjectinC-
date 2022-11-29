@@ -1,0 +1,3 @@
+C:/Users/JOHN-1/OneDrive - Ashesi University/aug - dec (2022)/Intermediate computer Programming/Assignment/C++ Project/cmake-build-debug/CMakeFiles/C___Project.dir
+C:/Users/JOHN-1/OneDrive - Ashesi University/aug - dec (2022)/Intermediate computer Programming/Assignment/C++ Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/JOHN-1/OneDrive - Ashesi University/aug - dec (2022)/Intermediate computer Programming/Assignment/C++ Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
